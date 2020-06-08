@@ -43,7 +43,8 @@ Steps to run the application
 
 ### 5. To Build Appliction 
 > flutter build [apk/ios/web] 
- 
+'''
+
 ## Features in this project:git push -u origin master
 
 * Add New Transaction
@@ -54,7 +55,7 @@ Steps to run the application
 * Better UI
 
 ## Library Used  
-| Attempt | #1  | 
+| Attempt | link  | 
 | :---:   | :-: | 
 | initl | [intl: ^0.16.1](https://pub.dev/packages/intl) | 
 
