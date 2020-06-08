@@ -15,10 +15,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
-<img src="./Screenshots/flutter_01.png" alt="drawing" style="width:10px;"/>
-<img src="./Screenshots/flutter_02.png" alt="drawing" style="width:10px;"/>
-<img src="./Screenshots/flutter_03.png" alt="drawing" style="width:10px;"/>
-
+<img src="./Screenshots/flutter_01.png" alt="drawing" width="200"/>
 ## Expense Tracker
 Steps to run 
 '''
