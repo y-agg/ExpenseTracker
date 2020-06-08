@@ -15,9 +15,9 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
-![Dummy Transaction](./Screenshots/flutter_01.png)
-![New Transaction](./Screenshots/flutter_02.png)
-![Main Screen](./Screenshots/flutter_03.png)
+![Dummy Transaction](./Screenshots/flutter_01.png | width=100)
+![New Transaction](./Screenshots/flutter_02.png | width=100)
+![Main Screen](./Screenshots/flutter_03.png | width=100) 
 
 ## Expense Tracker
 Steps to run 
@@ -37,8 +37,7 @@ Steps to run
 
 ### 5. To Build Appliction 
 > flutter build [apk/ios/web] 
-''' 
-
+ 
 ## Features in this project:git push -u origin master
 
 * Add New Transaction
