@@ -15,7 +15,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
-![Dummy Transaction](./Screenshots/flutter_01.png | width=100)
+![Dummy Transaction](./Screenshots/flutter_01.png =100*400)
 
 ![New Transaction](./Screenshots/flutter_02.png | width=100)
 
