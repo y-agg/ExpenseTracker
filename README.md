@@ -26,10 +26,10 @@ samples, guidance on mobile development, and a full API reference.
 ## Expense Tracker
 Steps to run the application 
 
-'''
+
 ### 1. run the following command in terminal 
 
-> git clone <>
+> git clone https://github.com/y-agg/ExpenseTracker
 > flutter create <Your Application Name>  
 > start .
 
@@ -43,7 +43,7 @@ Steps to run the application
 
 ### 5. To Build Appliction 
 > flutter build [apk/ios/web] 
-'''
+
 
 ## Features in this project:git push -u origin master
 
