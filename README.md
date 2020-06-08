@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
  <tr>
    <td> <img src="./Screenshots/flutter_01.png" alt="drawing" width="400"/> </td> 
    <td> <img src="./Screenshots/flutter_02.png" alt="drawing" width="400"/> </td> 
-   <td> <img src="./Screenshots/flutter_02.png" alt="drawing" width="400"/> </td> 
+   <td> <img src="./Screenshots/flutter_03.png" alt="drawing" width="400"/> </td> 
  </tr>
 </table>
 
