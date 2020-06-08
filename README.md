@@ -15,11 +15,17 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
-<img src="./Screenshots/flutter_01.png" alt="drawing" width="200"/>
+
+<img src="./Screenshots/flutter_01.png" alt="drawing" width="400"/>
+<img src="./Screenshots/flutter_01.png" alt="drawing" width="400"/>
+<img src="./Screenshots/flutter_01.png" alt="drawing" width="400"/>
+
 ## Expense Tracker
+
 Steps to run 
 '''
 ### 1. run the following command in terminal 
+
 > git clone <>
 > flutter create <Your Application Name>  
 > start .
