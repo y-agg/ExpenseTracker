@@ -16,7 +16,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 ![Dummy Transaction](./Screenshots/flutter_01.png | width=100)
+
 ![New Transaction](./Screenshots/flutter_02.png | width=100)
+
 ![Main Screen](./Screenshots/flutter_03.png | width=100) 
 
 ## Expense Tracker
