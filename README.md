@@ -22,9 +22,10 @@ samples, guidance on mobile development, and a full API reference.
    <td> <img src="./Screenshots/flutter_02.png" alt="drawing" width="400"/> </td> 
  </tr>
 </table>
-## Expense Tracker
 
-Steps to run 
+## Expense Tracker
+Steps to run the application 
+
 '''
 ### 1. run the following command in terminal 
 
